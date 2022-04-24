@@ -27,7 +27,7 @@ The corresponding data is organized in a table consisting of a _Ticker_ column, 
     Next i
  ```
 
-Comparing the stock performance in 2017 versus 2018 reflects a very apparent difference. As seen in the tables below, in 2017, every stock had a positive return except for "TERP". The Stock with the highest return was "DQ" with a return of 199.4% followed by "SEDG" with a return of 184.5%. In 2018, every stock had a negative return except for "ENPH" and "RUN". The stocks with the highest return were "ENPH" with a return of 81.9% followed by "RUN" with a return of 84.0%. The stocks with the worst return were "DQ" with a return of -62.6% followed by "JKS" with a reutn of -60.5%. 
+Comparing the stock performance in 2017 versus 2018 reflects a very apparent difference. As seen in the tables below, in 2017, every stock had a positive return except for "TERP". The Stock with the highest return was "DQ" with a return of 199.4% followed by "SEDG" with a return of 184.5%. In 2018, every stock had a negative return except for "ENPH" and "RUN". The stocks with the highest return were "ENPH" with a return of 81.9% followed by "RUN" with a return of 84.0%. The stocks with the worst return were "DQ" with a return of -62.6% followed by "JKS" with a return of -60.5%. 
 
 ![Screen Shot 2022-04-24 at 1 42 20 PM](https://user-images.githubusercontent.com/101564349/164989337-2b089025-579a-4b6a-a7a6-9ab1685c8e44.png)
 
