@@ -41,7 +41,7 @@ Comparing the execution time between the original script and the refactored scri
 
 <img width="415" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/101564349/164990791-ab3e6774-38eb-42e6-abe8-e1581929040b.png">
 
-Similarly, the run time for our original script in 2018 was 0.59375 seconds while our refactored script ran in 0.521562 seconds.
+Similarly, the run time for our original script in 2018 was 0.59375 seconds while our refactored script ran in 0.5351562 seconds.
 
 ![Original Script Run Time (2018)](https://user-images.githubusercontent.com/101564349/164990852-05f73091-2b3a-4bca-8c09-6107ffaf2473.png)
 
